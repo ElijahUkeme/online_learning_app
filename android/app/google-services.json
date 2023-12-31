@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032346586726",
+    "project_id": "online-learning-app-5c75d",
+    "storage_bucket": "online-learning-app-5c75d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032346586726:android:91640cf797e7dd5007a7a7",
+        "android_client_info": {
+          "package_name": "com.elijahukeme.online_learning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhALvylY-gEVuyMrbXUvZIyDj1C_jofR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
